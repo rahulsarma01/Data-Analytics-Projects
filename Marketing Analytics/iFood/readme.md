@@ -11,3 +11,4 @@ and on iFood campaign interactions with that customer.
 It is your challenge to understand the data, find business opportunities & insights and to propose
 any data driven action to optimize the campaigns results & generate value to the company.
 
+**Dataset**: [dataset link](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
