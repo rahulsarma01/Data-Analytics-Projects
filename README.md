@@ -3,13 +3,13 @@
 Welcome to the Data Analytics Project repository! This repository contains a collection of data analysis projects that demonstrate proficiency in data analysis and visualization using various tools and techniques.
 
 ## Table of Contents
-- Introduction
-- Projects
-- Tools and Techniques
-- Installation
-- Usage
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Tools and Techniques](#tools-and-techniques)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 The purpose of this repository is to showcase data analysis and visualization skills through a collection of projects that analyze different datasets from various industries, such as finance, marketing, healthcare, and social media.
