@@ -8,7 +8,7 @@ Each project includes a detailed report that provides insights, visualizations, 
 ## Projects
 The following are the projects included in this repository:
 
-1. Analyzing Customer Behavior in E-Commerce using Python and Pandas
+1. [iFood marketing analytics](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Marketing%20Analytics/iFood/iFood.ipynb)
 2. Predicting Customer Churn using Logistic Regression in R
 3. Analyzing Email Campaign Performance using SQL and Tableau
 4. Analyzing Market Trends using Python and Seaborn
