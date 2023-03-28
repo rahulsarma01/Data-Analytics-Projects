@@ -15,7 +15,8 @@ Example data from our lemonade stand:
 | Tax rate |  |
 
 
-![11](https://user-images.githubusercontent.com/113444489/228228165-4ed3b419-749b-4abd-beae-3154bc006458.png)
+![14](https://user-images.githubusercontent.com/113444489/228234757-5f583d79-3b89-4e71-ba0f-7fb6b03b1f55.png)
+
 
 Objective: we  want to get 'Net Income' to boost all the way to 100 000:
 - One way that we can do that is by changing  the quantity sold.
