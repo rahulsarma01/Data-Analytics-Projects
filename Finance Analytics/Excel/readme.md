@@ -33,4 +33,4 @@ For this task we will use Solver where we can tweak more than one variables.
 
 ![13](https://user-images.githubusercontent.com/113444489/228233189-456a9ac7-7d4d-4cea-8ce3-999b2c69ad04.png)
 
-**This is the end of our analysis. Thank you for going through my analysis.**
+*This is the end of our analysis. Thank you for going through my analysis.*
