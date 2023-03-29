@@ -24,7 +24,7 @@ Some of the projects included in this repository:
 | [Sales Prediction](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Marketing%20Analytics/Sales%20Prediction/sales_prediction.ipynb) | Machine learning model for sales prediction. |
 | [Sentiment Analysis](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/People%20Analytics/Sentiment%20Analysis/sentiment_analysis.ipynb) | Flipkart product review sentiment analysis. |
 | [Waiter Tips Analysis](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/People%20Analytics/Waiter%20Tips%20Analysis/waiter_tips_analysis.ipynb) | Waiter tips analysis for finding the patterns and trends in the tips received in the hospitality industry. |
-
+| [Titanic](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Excel%20for%20Data%20Analysis/Data%20Analysis/titanic_data_analysis.xlsx) | Data Wrangling and Exploratory Data Analysis with Excel |
 
 ## Tools
 The following are the programming languages and libraries used in this repository:
