@@ -2,6 +2,7 @@
 Some of the visuals present in this repository:
 - [Apple Product Revenue](#apple-product-revenue)
 - [Valuation Data](#valuation-data)
+- [Bike Sales Dashboard](#bike-sales-dashboard)
 
 ---
 
@@ -23,4 +24,9 @@ Some of the visuals present in this repository:
 `Valuation Data Visual`
 
 ![Valuation Data Final](https://user-images.githubusercontent.com/113444489/228442917-7c94554a-c41e-408b-94db-3c0ee65fbee9.png)
+---
+
+### Bike Sales Dashboard
+
+![c2](https://user-images.githubusercontent.com/113444489/229018903-142d8053-3159-4c31-b166-0f00fd4fc1ab.png)
 ---
