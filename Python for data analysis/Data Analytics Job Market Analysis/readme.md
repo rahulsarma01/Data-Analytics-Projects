@@ -14,7 +14,7 @@ I used the following libraries for this analysis:
 
 ## Data Source
 
-I have used the DataAnalyst.csv dataset for this analysis. The data was collected from Kaggle and contains information about job postings in the field of Data Analytics.
+I have used the DataAnalyst.csv dataset for this analysis. The data was collected from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs) and contains information about job postings in the field of Data Analytics.
 
 ## Data Cleaning
 
@@ -41,3 +41,7 @@ I analyzed the number of job postings by sector and created a visualization to s
 ## Conclusion
 
 Based on the analysis, Data Analyst is a high demand job with a wide range of job titles and skills required. I also observed that salary varies significantly depending on the job title and location. Therefore, it is important for job seekers to analyze job postings carefully to determine the best fit for their skills and expectations.
+
+---
+
+*Thank you for taking the time to review this readme file. Click here to access the complete analysis on the job market for data analytics*
