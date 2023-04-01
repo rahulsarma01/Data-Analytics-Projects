@@ -8,7 +8,7 @@
 - [Questions and Solutions](#questions-and-solutions)
 
 ***
-## Case Task
+## ⚒️ Case Task
 
 As a data professional, you've been hired by the detective assigned on the case to help solve a murder case that took place in SQL City. The detective has provided you with some initial information but need your help to uncover more clues. The murder occurred sometime on Jan.15, 2018.
 
@@ -16,7 +16,7 @@ As a data professional, you've been hired by the detective assigned on the case 
 
 ![schema](https://user-images.githubusercontent.com/113444489/229263670-392c15c1-daee-4c86-a0ba-914883c772f2.png)
 
-## Questions and Solutions
+## 🙋🏻‍♂️ Questions and Solutions
 
 - Start by retrieving the corresponding crime scene report from the police department’s database.
     
