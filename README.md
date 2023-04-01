@@ -20,11 +20,14 @@ Some of the projects included in this repository:
 
 | case study | description |
 | --- | --- |
-| [iFood](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Marketing%20Analytics/iFood/iFood%20.ipynb)  | This project aims to optimize iFood’s campaign results and generate value for company. |
+|    [SQL City Muder Mystery](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/SQL%20for%20Data%20Analysis/The%20SQL%20Murder%20Mystery/readme.md)      | As a data professional, I was tasked with analyzing a murder mystery case in Sql city. The insights gained from this analysis have the potential to uncover critical information and aid in the investigation of the crime. Click on the link to read the full analysis and see how I approached this challenging task.   |
 | [Sales Prediction](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Marketing%20Analytics/Sales%20Prediction/sales_prediction.ipynb) | Machine learning model for sales prediction. |
 | [Sentiment Analysis](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/People%20Analytics/Sentiment%20Analysis/sentiment_analysis.ipynb) | Flipkart product review sentiment analysis. |
 | [Waiter Tips Analysis](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/People%20Analytics/Waiter%20Tips%20Analysis/waiter_tips_analysis.ipynb) | Waiter tips analysis for finding the patterns and trends in the tips received in the hospitality industry. |
 | [Titanic](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Excel%20for%20Data%20Analysis/Data%20Analysis/titanic_data_analysis.xlsx) | Data Wrangling and Exploratory Data Analysis with Excel |
+| [iFood](https://github.com/rahulsarma01/Data-Analytics-Projects/blob/main/Marketing%20Analytics/iFood/iFood%20.ipynb)  | This project aims to optimize iFood’s campaign results and generate value for company. |
+
+
 
 ## Tools
 The following are the programming languages and libraries used in this repository:
