@@ -1,6 +1,7 @@
+# Data Analytics Project Repository
 
 ![5031659](https://user-images.githubusercontent.com/113444489/228137832-baeb2981-417d-4baa-86ce-b5b44d368dd0.jpg)
-# Data Analytics Project Repository
+
 Welcome to the Data Analytics Project repository! This repository contains a collection of data analysis projects that demonstrate proficiency in data analysis and visualization using various tools and techniques.
 
 ## Table of Contents
@@ -12,8 +13,7 @@ Welcome to the Data Analytics Project repository! This repository contains a col
 
 
 ## Introduction
-The purpose of this repository is to showcase data analysis and visualization skills through a collection of projects that analyze different datasets from various industries, such as finance, marketing, healthcare, and social media.
-Each project includes a detailed report that provides insights, visualizations, and statistical modeling using programming languages such as Python, R, and SQL, along with popular data analysis and visualization libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+This repository demonstrates my data analysis and visualization skills through various projects analyzing datasets from different industries including finance, marketing, healthcare, and social media. Each project contains a detailed report with insights, or visualizations, or statistical modeling using programming languages like Python, R, and SQL and popular libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
 ## Projects
 Some of the projects included in this repository:
