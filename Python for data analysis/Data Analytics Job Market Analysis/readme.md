@@ -1,6 +1,6 @@
-# Data Analyst Job Market Analysis
+# Data Analytics Job Market Analysis
 
-In this project, I analyze Data Analyst job market to get insights about the job postings, job titles, salary trends, and required skills.
+In this project, I analyze Data Analytics job market to get insights about the job postings, job titles, salary trends, and required skills.
 
 ## Libraries Used
 
