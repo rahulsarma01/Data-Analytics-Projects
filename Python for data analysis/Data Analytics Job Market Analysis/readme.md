@@ -12,7 +12,7 @@ I used the following libraries for this analysis:
 - seaborn: for creating more advanced visualizations.
 - plotly: for creating interactive visualizations.
 
-## Data Source
+## Data Source 
 
 I have used the DataAnalyst.csv dataset for this analysis. The data was collected from [Kaggle](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs) and contains information about job postings in the field of Data Analytics.
 
@@ -44,4 +44,4 @@ Based on the analysis, Data Analyst is a high demand job with a wide range of jo
 
 ---
 
-*Thank you for taking the time to review this readme file. Click here to access the complete analysis on the job market for data analytics*
+*Thank you for taking the time to review this readme file. Click here to access the complete analysis on the job market for data analytics.*
